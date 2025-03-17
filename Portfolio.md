@@ -20,7 +20,7 @@
 
 | Project Link | Analysis | Description | 
 |---|---|---|
-| 👕 [Zara - Clothing Brand Sales](README.md) | Data Modeling, Data Transformation, Data Analysis | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
+| 📈 [Sales To Hypermarkets In Europe Project](https://github.com/Aurimas-N/Hypermarket-Sales-In-Europe/blob/main/README.md) | exploration, cleaning and analysis in BigQuery SQL  | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
 | 👕 [Zara - Clothing Brand Sales](README.md) | Data Modeling, Data Transformation, Data Analysis | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
 
 ***
