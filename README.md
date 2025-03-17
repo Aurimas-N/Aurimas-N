@@ -2,7 +2,7 @@
 
 ## Data projects
 
-Take a look at my [Data Portfolio](Portfolio.md) to explore some of my projects!
+**Take a look at my [Data Portfolio](Portfolio.md) to explore some of my projects!**
 
 ## 📫 How to reach me:
 
