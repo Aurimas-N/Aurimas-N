@@ -21,16 +21,16 @@
 | Project Link | Analysis | Description | 
 |---|---|---|
 | 📈 [Sales To Hypermarkets In Europe Project](https://github.com/Aurimas-N/Hypermarket-Sales-In-Europe/blob/main/README.md) | Exploration, cleaning and analysis in BigQuery SQL  | Sales analysis for European hypermarkets, regional performance insights, trend Identification, data cleaning and analysis, interactive data Visualization dashboard with Tableau.
-| 🚲 [Cyclist Bike-share Project](https://github.com/Aurimas-N/Cyclist_Bike-Share_Analysis/blob/main/README.md) | Data transformation, cleaning, exploration & analysis in BigQuery SQL, data modeling | Bike-Share usage, data merging, analysis, trend identification, seasonal impact, data cleaning and preprocessing, user behavior insights, data visualization with Tableau.
-
+| 🚲 [Cyclist Bike-share Project](https://github.com/Aurimas-N/Cyclist_Bike-Share_Analysis/blob/main/README.md) | Data transformation, cleaning, exploration & analysis in BigQuery SQL, data modeling | Bike-Share rental company products usage, trend identification, seasonal impact, data merging, data cleaning and preprocessing, analysis, user behavior insights, data visualization with Tableau.
+ 
 ***
 
 # Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 👕 [Zara - Clothing Brand Sales](https://github.com/Aurimas-N/Zara_Sales_By_Clothing_Type/blob/main/README.md) | Cleaned and transformed data of 200k highest rated chess players in the world using Python. Clean data was used for Tableau visualization where I showcased best players in every country, and player distribution worldwide based on official FIDE title. | [Dashboard](https://public.tableau.com/app/profile/mantastech/viz/chess_17027630680570/Dashboard1) |
-|  📈 [Sales To Hypermarkets In Europe Project](https://github.com/Aurimas-N/Hypermarket-Sales-In-Europe/blob/main/README.md) | Developed an informative HR dashboard for ChocoTeam company. This visualization helps to understand and optimize various aspects of workforce management, as well as answering key business questions about employees.  | [Dashboard](https://public.tableau.com/app/profile/mantastech/viz/HRDashboard_17034291773930/Dashboard1) |
-| 🚲 [Cyclist Bike-share Project](https://github.com/Aurimas-N/Cyclist_Bike-Share_Analysis/blob/main/README.md) | Developed an informative HR dashboard for ChocoTeam company. This visualization helps to understand and optimize various aspects of workforce management, as well as answering key business questions about employees.  | [Dashboard](https://public.tableau.com/app/profile/mantastech/viz/HRDashboard_17034291773930/Dashboard1) |
+| 👕 [Zara - Clothing Brand Sales](https://github.com/Aurimas-N/Zara_Sales_By_Clothing_Type/blob/main/README.md) | Analyzed Zara product sales with a focus on promotions and seasonality. Used Google Sheets for analysis and Tableau for interactive dashboard visualization, providing insights into product performance, price vs sales, and revenue impact from promotions. | [Dashboard](https://public.tableau.com/app/profile/mantastech/viz/chess_17027630680570/Dashboard1) |
+|  📈 [Sales To Hypermarkets In Europe Project](https://github.com/Aurimas-N/Hypermarket-Sales-In-Europe/blob/main/README.md) | Sales analysis for European hypermarkets, regional performance insights, trend Identification, data cleaning and analysis, interactive data Visualization dashboard with Tableau.  | [Dashboard](https://public.tableau.com/app/profile/mantastech/viz/HRDashboard_17034291773930/Dashboard1) |
+| 🚲 [Cyclist Bike-share Project](https://github.com/Aurimas-N/Cyclist_Bike-Share_Analysis/blob/main/README.md) | Bike-Share rental company products usage, trend identification, seasonal impact, data merging, data cleaning and preprocessing, analysis, user behavior insights, data visualization with Tableau.  | [Dashboard](https://public.tableau.com/app/profile/mantastech/viz/HRDashboard_17034291773930/Dashboard1) |
 
 ***
