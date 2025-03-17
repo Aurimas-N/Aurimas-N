@@ -21,7 +21,7 @@
 | Project Link | Analysis | Description | 
 |---|---|---|
 | 📈 [Sales To Hypermarkets In Europe Project](https://github.com/Aurimas-N/Hypermarket-Sales-In-Europe/blob/main/README.md) | Exploration, cleaning and analysis in BigQuery SQL  | Sales analysis for European hypermarkets, regional performance insights, trend Identification, data cleaning and analysis, interactive data Visualization dashboard with Tableau.
-| 🚲 [Cyclist Bike-share Project](https://github.com/Aurimas-N/Cyclist_Bike-Share_Analysis/blob/main/README.md) | Data transformation, cleaning, exploration & analysis in BigQuery SQL, data modeling | Bike-Share usage data merginf, analysis, trend identification, seasonal impact, data cleaning and preprocessing, data visualization with Tableau, user behavior insights.
+| 🚲 [Cyclist Bike-share Project](https://github.com/Aurimas-N/Cyclist_Bike-Share_Analysis/blob/main/README.md) | Data transformation, cleaning, exploration & analysis in BigQuery SQL, data modeling | Bike-Share usage, data merging, analysis, trend identification, seasonal impact, data cleaning and preprocessing, user behavior insights, data visualization with Tableau.
 
 ***
 
