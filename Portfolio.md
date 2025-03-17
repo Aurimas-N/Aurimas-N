@@ -4,7 +4,7 @@
 
 ## Contents
 
-* [Google Sheets/Excel](#google-sheets-excel)
+* [Google Sheets/Excel](#google-sheetsexcel)
 * [SQL](#sql)
 * [Tableau](#tableau)
 
