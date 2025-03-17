@@ -5,7 +5,8 @@
 Take a look at my Data Portfolio to explore some of my projects!
 
 ## 📫 How to reach me:
-[Facebook](https://www.facebook.com/aurimas.huhu)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/aurimas.huhu)
+{:width="30px" height="30px"}
 
 
 <!--
