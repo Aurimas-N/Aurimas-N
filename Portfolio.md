@@ -1,6 +1,6 @@
 # Aurimas Portfolio
 
-Here you can explore the data projects I've completed using a variety of tools
+**Here you can explore the data projects I've completed using a variety of tools**
 
 ## Contents
 
