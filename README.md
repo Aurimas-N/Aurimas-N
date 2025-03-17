@@ -6,7 +6,7 @@ Take a look at my [Data Portfolio](Portfolio.md) to explore some of my projects!
 
 ## 📫 How to reach me:
 
-<a href="https://www.facebook.com/aurimas.huhu"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30" height="30"></a>
+<a href="https://www.facebook.com/aurimas.huhu"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30" height="30"></a> <a href="mailto:naujalisaurimas@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="30" height="30"></a>
 
 
 <!--
