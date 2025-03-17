@@ -12,7 +12,7 @@ Here you can explore the data projects I've completed using a variety of tools
 
 | Project Link | Analysis | Description | 
 |---|---|---|
-| 👕 [Zara - Clothing Brand Sales](README.md) | Data Modeling, Data Transformation, Data Analysis | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
+| 👕 [Zara - Clothing Brand Sales](./Zara_Sales_By_Clothing_Type/README.md) | Data Modeling, Data Transformation, Data Analysis | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
 
 ***
 
