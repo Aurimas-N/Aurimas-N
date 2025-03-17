@@ -4,9 +4,9 @@ Here you can explore the data projects I've completed using a variety of tools
 
 ## Contents
 
-[Google Sheets/Excel]
-[SQL]
-[Tableau]
+* [Google Sheets/Excel](#google-sheets-excel)
+* [SQL](#sql)
+* [Tableau](#tableau)
 
 # Google Sheets/Excel
 
