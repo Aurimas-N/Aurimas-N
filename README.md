@@ -2,7 +2,7 @@
 
 ## Data projects
 
-Take a look at my Data Portfolio to explore some of my projects!
+Take a look at my [Data Portfolio](Portfolio.md) to explore some of my projects!
 
 ## 📫 How to reach me:
 [![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/aurimas.huhu)
