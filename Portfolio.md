@@ -12,7 +12,7 @@
 
 | Project Link | Analysis | Description | 
 |---|---|---|
-| 👕 [Zara - Clothing Brand Sales](https://github.com/Aurimas-N/Zara_Sales_By_Clothing_Type/blob/main/README.md)| Data exploration, cleaning and Analysis with Google Sheets | Analyzed Zara product sales with a focus on promotions and seasonality. Used Google Sheets for analysis and Tableau for dashboard visualization, providing insights into product performance, price vs sales, and revenue impact from promotions.
+| 👕 [Zara - Clothing Brand Sales](https://github.com/Aurimas-N/Zara_Sales_By_Clothing_Type/blob/main/README.md)| Data exploration, cleaning and analysis with Google Sheets | Analyzed Zara product sales with a focus on promotions and seasonality. Used Google Sheets for analysis and Tableau for dashboard visualization, providing insights into product performance, price vs sales, and revenue impact from promotions.
 
 ***
 
