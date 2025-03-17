@@ -20,7 +20,7 @@
 
 | Project Link | Analysis | Description | 
 |---|---|---|
-| 📈 [Sales To Hypermarkets In Europe Project](https://github.com/Aurimas-N/Hypermarket-Sales-In-Europe/blob/main/README.md) | Exploration, cleaning and analysis in BigQuery SQL  | Sales analysis for European hypermarkets, regional performance insights, trend Identification, data dleaning and analysis, data Visualization with Tableau.
+| 📈 [Sales To Hypermarkets In Europe Project](https://github.com/Aurimas-N/Hypermarket-Sales-In-Europe/blob/main/README.md) | Exploration, cleaning and analysis in BigQuery SQL  | Sales analysis for European hypermarkets, regional performance insights, trend Identification, data cleaning and analysis, interactive data Visualization dashboard with Tableau.
 | 👕 [Zara - Clothing Brand Sales](README.md) | Data Modeling, Data Transformation, Data Analysis | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
 
 ***
