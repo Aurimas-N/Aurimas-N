@@ -3,6 +3,10 @@
 ## Data projects
 
 Take a look at my Data Portfolio to explore some of my projects!
+
+## 📫 How to reach me:
+
+
 <!--
 **Aurimas-N/Aurimas-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
