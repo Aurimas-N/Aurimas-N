@@ -12,7 +12,7 @@
 
 | Project Link | Analysis | Description | 
 |---|---|---|
-| 👕 [Zara - Clothing Brand Sales](https://github.com/Aurimas-N/Zara_Sales_By_Clothing_Type/blob/main/README.md)| Data exploration, cleaning and analysis with Google Sheets | Analyzed Zara product sales with a focus on promotions and seasonality. Used Google Sheets for analysis and Tableau for dashboard visualization, providing insights into product performance, price vs sales, and revenue impact from promotions.
+| 👕 [Zara - Clothing Brand Sales](https://github.com/Aurimas-N/Zara_Sales_By_Clothing_Type/blob/main/README.md)| Data exploration, cleaning and analysis with Google Sheets | Analyzed Zara product sales with a focus on promotions and seasonality. Used Google Sheets for analysis and Tableau for interactive dashboard visualization, providing insights into product performance, price vs sales, and revenue impact from promotions.
 
 ***
 
@@ -21,7 +21,7 @@
 | Project Link | Analysis | Description | 
 |---|---|---|
 | 📈 [Sales To Hypermarkets In Europe Project](https://github.com/Aurimas-N/Hypermarket-Sales-In-Europe/blob/main/README.md) | Exploration, cleaning and analysis in BigQuery SQL  | Sales analysis for European hypermarkets, regional performance insights, trend Identification, data cleaning and analysis, interactive data Visualization dashboard with Tableau.
-| 👕 [Zara - Clothing Brand Sales](README.md) | Data Modeling, Data Transformation, Data Analysis | Created a relational database and wrote SQL queries to extract important information about orders, stock, and staff. Used Looker Studio to build an interactive dashboard showcasing key business metrics.
+| 🚲 [Cyclist Bike-share Project](https://github.com/Aurimas-N/Cyclist_Bike-Share_Analysis/blob/main/README.md) | Data transformation, cleaning, exploration & analysis in BigQuery SQL, data modeling | Bike-Share usage data merginf, analysis, trend identification, seasonal impact, data cleaning and preprocessing, data visualization with Tableau, user behavior insights.
 
 ***
 
